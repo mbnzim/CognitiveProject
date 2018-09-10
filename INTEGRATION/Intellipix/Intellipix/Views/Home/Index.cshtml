@@ -1,0 +1,99 @@
+﻿@model Intellipix.Models.BlobBusiness
+@{
+    /**/
+
+    ViewBag.Title = "Intellipix Home Page";
+}
+
+
+<style>
+    table, th, td {
+        border: 0.5px solid gray;
+        color:gray;
+        /*border-collapse: collapse;*/
+    }
+
+    th, td {
+        padding: 30px;
+        text-align: left;
+    }
+
+    button.btn1 {
+        border: 2px;
+        border-color: #10548e;
+        padding: 14px 28px;
+        font-size: 16px;
+        color:white;
+        /*cursor: pointer;*/
+        /*background-color: #337ab7;*/
+    }
+
+        button.btn1:hover {
+            background-color: #9a9797;
+        }
+
+       /*img:hover {
+            background-color: #9a9797;
+        }*/
+</style>
+
+@using Intellipix.Models
+
+<div class="container" style="padding-top: 24px">
+    <div class="row">
+        <div class="col-sm-8">
+            @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <input type="file" name="file" id="upload" style="display: none" onchange="$('#submit').click();" />
+                <input type="button" value="Upload a Photo" class="btn btn-primary btn-lg" onclick="$('#upload').click();" />
+                <input type="submit" id="submit" style="display: none" />
+            }
+        </div>
+        <div class="col-sm-4 pull-right">
+            @using (Html.BeginForm("Search", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @class = "navbar-form" }))
+            {
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search photos" name="term" value="@ViewBag.Search" style="max-width: 800px">
+                    <span class="input-group-btn">
+                        <button class="btn btn-primary" type="submit">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </span>
+                </div>
+            }
+        </div>
+    </div>
+
+    <hr />
+
+        <div class="row">
+            <div class="col-sm-12">
+                @foreach (BlobInfo blob in ViewBag.Blobs)
+                {
+                
+                    <table style="width:50%">
+                        <tr>
+                            <td>
+                                <a href="@blob.ImageUri" rel="lightbox" title="@blob.Caption">
+                                    <img src="@blob.ThumbnailUri" width="192" title="@blob.Caption" style="padding-right: 16px; padding-bottom: 16px" />
+                                </a>
+                              </td>
+
+                            <td><button class="btn1">@Html.ActionLink("Details", "getPropeties", "Home", new { name = blob.ImageUri }, null)</button></td>
+                            <td> <button class="btn1">@Html.ActionLink("Delete", "RemoveBlob", "Home", new { name = blob.ImageUri }, null)</button></td>
+                        </tr>
+                    </table>
+                
+                }
+            </div>
+        </div>
+    </div>
+   
+        @section scripts
+{
+            <script type="text/javascript" language="javascript">
+        if ("@TempData["Message"]" !== "") {
+            alert("@TempData["Message"]");
+        }
+            </script>
+        }

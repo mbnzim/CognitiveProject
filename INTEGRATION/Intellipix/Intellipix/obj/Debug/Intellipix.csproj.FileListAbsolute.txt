@@ -1,0 +1,1136 @@
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\ApplicationInsights.config
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Intellipix.dll.config
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Intellipix.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Intellipix.pdb
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\csc.exe
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\csc.exe.config
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\csc.rsp
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\csi.exe
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\csi.exe.config
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\csi.rsp
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.AppContext.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Console.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.IO.Compression.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Security.Claims.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.ValueTuple.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\vbc.exe
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\vbc.exe.config
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\vbc.rsp
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Antlr3.Runtime.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\ImageResizer.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.Web.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.ApplicationInsights.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Newtonsoft.Json.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Helpers.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Mvc.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Optimization.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Razor.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.WebPages.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\WebGrease.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\ImageResizer.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Helpers.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Mvc.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Optimization.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.Razor.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.WebPages.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Newtonsoft.Json.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Antlr3.Runtime.pdb
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.AI.Web.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manji\source\repos\Intellipix\Intellipix\obj\Debug\Intellipix.csprojAssemblyReference.cache
+C:\Users\manji\source\repos\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CoreCompileInputs.cache
+C:\Users\manji\source\repos\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CopyComplete
+C:\Users\manji\source\repos\Intellipix\Intellipix\obj\Debug\Intellipix.dll
+C:\Users\manji\source\repos\Intellipix\Intellipix\obj\Debug\Intellipix.pdb
+C:\Users\manji\source\repos\Intellipix\Intellipix\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\ApplicationInsights.config
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Intellipix.dll.config
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Intellipix.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Intellipix.pdb
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\csc.exe
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\csc.exe.config
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\csc.rsp
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\csi.exe
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\csi.exe.config
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\csi.rsp
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.AppContext.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Console.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.IO.Compression.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Security.Claims.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.ValueTuple.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\vbc.exe
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\vbc.exe.config
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\vbc.rsp
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Antlr3.Runtime.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\ImageResizer.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.Web.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Newtonsoft.Json.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Helpers.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Mvc.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Optimization.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Razor.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.WebPages.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\WebGrease.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\ImageResizer.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Helpers.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Mvc.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Optimization.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.Razor.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.WebPages.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Newtonsoft.Json.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Antlr3.Runtime.pdb
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AI.Web.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CoreCompileInputs.cache
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CopyComplete
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\obj\Debug\Intellipix.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\obj\Debug\Intellipix.pdb
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Win32.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\netstandard.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.AppContext.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Collections.Concurrent.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Collections.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Collections.NonGeneric.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Collections.Specialized.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.ComponentModel.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.ComponentModel.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Console.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Data.Common.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.Contracts.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.Debug.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.Process.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.StackTrace.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.Tools.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.TraceSource.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Diagnostics.Tracing.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Drawing.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Dynamic.Runtime.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Globalization.Calendars.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Globalization.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Globalization.Extensions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.Compression.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.Compression.ZipFile.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.FileSystem.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.IsolatedStorage.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.Pipes.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Linq.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Linq.Expressions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Linq.Parallel.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Linq.Queryable.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.Http.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.NameResolution.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.NetworkInformation.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.Ping.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.Requests.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.Security.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.Sockets.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.WebHeaderCollection.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.WebSockets.Client.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Net.WebSockets.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.ObjectModel.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Reflection.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Reflection.Extensions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Reflection.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Resources.Reader.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Resources.ResourceManager.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Resources.Writer.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.Extensions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.Handles.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.InteropServices.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.Numerics.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.Serialization.Json.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Claims.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Cryptography.Csp.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Principal.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.SecureString.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Text.Encoding.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Text.Encoding.Extensions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Text.RegularExpressions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.Overlapped.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.Tasks.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.Thread.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.ThreadPool.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.Timer.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.ValueTuple.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Xml.ReaderWriter.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Xml.XDocument.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Xml.XmlDocument.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Xml.XmlSerializer.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Xml.XPath.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Xml.XPath.XDocument.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Options.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Win32.Registry.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Newtonsoft.Json.Bson.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Buffers.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Collections.Immutable.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.ComponentModel.Annotations.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Memory.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Numerics.Vectors.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Reflection.Metadata.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.AccessControl.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Cryptography.Xml.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Permissions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Security.Principal.Windows.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Text.Encoding.CodePages.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Text.Encodings.Web.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Options.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\Newtonsoft.Json.Bson.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Buffers.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Collections.Immutable.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Memory.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Numerics.Vectors.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Reflection.Metadata.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Text.Encodings.Web.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\NOKWAZI\Documents\Intellipix\Intellipix\obj\Debug\Intellipix.csprojAssemblyReference.cache
+F:\Intellipix\Intellipix\bin\Microsoft.DiaSymReader.Native.x86.dll
+F:\Intellipix\Intellipix\bin\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Intellipix\Intellipix\bin\ApplicationInsights.config
+F:\Intellipix\Intellipix\bin\Intellipix.dll.config
+F:\Intellipix\Intellipix\bin\Intellipix.dll
+F:\Intellipix\Intellipix\bin\Intellipix.pdb
+F:\Intellipix\Intellipix\bin\roslyn\csc.exe
+F:\Intellipix\Intellipix\bin\roslyn\csc.exe.config
+F:\Intellipix\Intellipix\bin\roslyn\csc.rsp
+F:\Intellipix\Intellipix\bin\roslyn\csi.exe
+F:\Intellipix\Intellipix\bin\roslyn\csi.exe.config
+F:\Intellipix\Intellipix\bin\roslyn\csi.rsp
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Intellipix\Intellipix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Intellipix\Intellipix\bin\roslyn\System.AppContext.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Collections.Immutable.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Console.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.IO.Compression.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Reflection.Metadata.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Security.AccessControl.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Security.Claims.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.ValueTuple.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.dll
+F:\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Intellipix\Intellipix\bin\roslyn\vbc.exe
+F:\Intellipix\Intellipix\bin\roslyn\vbc.exe.config
+F:\Intellipix\Intellipix\bin\roslyn\vbc.rsp
+F:\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe
+F:\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe.config
+F:\Intellipix\Intellipix\bin\Microsoft.Win32.Primitives.dll
+F:\Intellipix\Intellipix\bin\netstandard.dll
+F:\Intellipix\Intellipix\bin\System.AppContext.dll
+F:\Intellipix\Intellipix\bin\System.Collections.Concurrent.dll
+F:\Intellipix\Intellipix\bin\System.Collections.dll
+F:\Intellipix\Intellipix\bin\System.Collections.NonGeneric.dll
+F:\Intellipix\Intellipix\bin\System.Collections.Specialized.dll
+F:\Intellipix\Intellipix\bin\System.ComponentModel.dll
+F:\Intellipix\Intellipix\bin\System.ComponentModel.EventBasedAsync.dll
+F:\Intellipix\Intellipix\bin\System.ComponentModel.Primitives.dll
+F:\Intellipix\Intellipix\bin\System.ComponentModel.TypeConverter.dll
+F:\Intellipix\Intellipix\bin\System.Console.dll
+F:\Intellipix\Intellipix\bin\System.Data.Common.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.Contracts.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.Debug.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.FileVersionInfo.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.Process.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.StackTrace.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.Tools.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.TraceSource.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.Tracing.dll
+F:\Intellipix\Intellipix\bin\System.Drawing.Primitives.dll
+F:\Intellipix\Intellipix\bin\System.Dynamic.Runtime.dll
+F:\Intellipix\Intellipix\bin\System.Globalization.Calendars.dll
+F:\Intellipix\Intellipix\bin\System.Globalization.dll
+F:\Intellipix\Intellipix\bin\System.Globalization.Extensions.dll
+F:\Intellipix\Intellipix\bin\System.IO.Compression.dll
+F:\Intellipix\Intellipix\bin\System.IO.Compression.ZipFile.dll
+F:\Intellipix\Intellipix\bin\System.IO.dll
+F:\Intellipix\Intellipix\bin\System.IO.FileSystem.dll
+F:\Intellipix\Intellipix\bin\System.IO.FileSystem.DriveInfo.dll
+F:\Intellipix\Intellipix\bin\System.IO.FileSystem.Primitives.dll
+F:\Intellipix\Intellipix\bin\System.IO.FileSystem.Watcher.dll
+F:\Intellipix\Intellipix\bin\System.IO.IsolatedStorage.dll
+F:\Intellipix\Intellipix\bin\System.IO.MemoryMappedFiles.dll
+F:\Intellipix\Intellipix\bin\System.IO.Pipes.dll
+F:\Intellipix\Intellipix\bin\System.IO.UnmanagedMemoryStream.dll
+F:\Intellipix\Intellipix\bin\System.Linq.dll
+F:\Intellipix\Intellipix\bin\System.Linq.Expressions.dll
+F:\Intellipix\Intellipix\bin\System.Linq.Parallel.dll
+F:\Intellipix\Intellipix\bin\System.Linq.Queryable.dll
+F:\Intellipix\Intellipix\bin\System.Net.Http.dll
+F:\Intellipix\Intellipix\bin\System.Net.NameResolution.dll
+F:\Intellipix\Intellipix\bin\System.Net.NetworkInformation.dll
+F:\Intellipix\Intellipix\bin\System.Net.Ping.dll
+F:\Intellipix\Intellipix\bin\System.Net.Primitives.dll
+F:\Intellipix\Intellipix\bin\System.Net.Requests.dll
+F:\Intellipix\Intellipix\bin\System.Net.Security.dll
+F:\Intellipix\Intellipix\bin\System.Net.Sockets.dll
+F:\Intellipix\Intellipix\bin\System.Net.WebHeaderCollection.dll
+F:\Intellipix\Intellipix\bin\System.Net.WebSockets.Client.dll
+F:\Intellipix\Intellipix\bin\System.Net.WebSockets.dll
+F:\Intellipix\Intellipix\bin\System.ObjectModel.dll
+F:\Intellipix\Intellipix\bin\System.Reflection.dll
+F:\Intellipix\Intellipix\bin\System.Reflection.Extensions.dll
+F:\Intellipix\Intellipix\bin\System.Reflection.Primitives.dll
+F:\Intellipix\Intellipix\bin\System.Resources.Reader.dll
+F:\Intellipix\Intellipix\bin\System.Resources.ResourceManager.dll
+F:\Intellipix\Intellipix\bin\System.Resources.Writer.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.Extensions.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.Handles.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.InteropServices.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.Numerics.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.Serialization.Formatters.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.Serialization.Json.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.Serialization.Primitives.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.Serialization.Xml.dll
+F:\Intellipix\Intellipix\bin\System.Security.Claims.dll
+F:\Intellipix\Intellipix\bin\System.Security.Cryptography.Algorithms.dll
+F:\Intellipix\Intellipix\bin\System.Security.Cryptography.Csp.dll
+F:\Intellipix\Intellipix\bin\System.Security.Cryptography.Encoding.dll
+F:\Intellipix\Intellipix\bin\System.Security.Cryptography.Primitives.dll
+F:\Intellipix\Intellipix\bin\System.Security.Cryptography.X509Certificates.dll
+F:\Intellipix\Intellipix\bin\System.Security.Principal.dll
+F:\Intellipix\Intellipix\bin\System.Security.SecureString.dll
+F:\Intellipix\Intellipix\bin\System.Text.Encoding.dll
+F:\Intellipix\Intellipix\bin\System.Text.Encoding.Extensions.dll
+F:\Intellipix\Intellipix\bin\System.Text.RegularExpressions.dll
+F:\Intellipix\Intellipix\bin\System.Threading.dll
+F:\Intellipix\Intellipix\bin\System.Threading.Overlapped.dll
+F:\Intellipix\Intellipix\bin\System.Threading.Tasks.dll
+F:\Intellipix\Intellipix\bin\System.Threading.Tasks.Parallel.dll
+F:\Intellipix\Intellipix\bin\System.Threading.Thread.dll
+F:\Intellipix\Intellipix\bin\System.Threading.ThreadPool.dll
+F:\Intellipix\Intellipix\bin\System.Threading.Timer.dll
+F:\Intellipix\Intellipix\bin\System.ValueTuple.dll
+F:\Intellipix\Intellipix\bin\System.Xml.ReaderWriter.dll
+F:\Intellipix\Intellipix\bin\System.Xml.XDocument.dll
+F:\Intellipix\Intellipix\bin\System.Xml.XmlDocument.dll
+F:\Intellipix\Intellipix\bin\System.Xml.XmlSerializer.dll
+F:\Intellipix\Intellipix\bin\System.Xml.XPath.dll
+F:\Intellipix\Intellipix\bin\System.Xml.XPath.XDocument.dll
+F:\Intellipix\Intellipix\bin\Antlr3.Runtime.dll
+F:\Intellipix\Intellipix\bin\ImageResizer.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AI.Web.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.dll
+F:\Intellipix\Intellipix\bin\Microsoft.ApplicationInsights.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Antiforgery.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cors.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.JsonPatch.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Localization.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Language.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.dll
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.WebUtilities.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.dll
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.dll
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.dll
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.Razor.dll
+F:\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Intellipix\Intellipix\bin\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Memory.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyModel.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.ObjectPool.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Options.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Primitives.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.WebEncoders.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Net.Http.Headers.dll
+F:\Intellipix\Intellipix\bin\Microsoft.ProjectOxford.Vision.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Web.Infrastructure.dll
+F:\Intellipix\Intellipix\bin\Microsoft.Win32.Registry.dll
+F:\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.dll
+F:\Intellipix\Intellipix\bin\Newtonsoft.Json.Bson.dll
+F:\Intellipix\Intellipix\bin\Newtonsoft.Json.dll
+F:\Intellipix\Intellipix\bin\System.Buffers.dll
+F:\Intellipix\Intellipix\bin\System.Collections.Immutable.dll
+F:\Intellipix\Intellipix\bin\System.ComponentModel.Annotations.dll
+F:\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Intellipix\Intellipix\bin\System.Memory.dll
+F:\Intellipix\Intellipix\bin\System.Numerics.Vectors.dll
+F:\Intellipix\Intellipix\bin\System.Reflection.Metadata.dll
+F:\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Intellipix\Intellipix\bin\System.Security.AccessControl.dll
+F:\Intellipix\Intellipix\bin\System.Security.Cryptography.Xml.dll
+F:\Intellipix\Intellipix\bin\System.Security.Permissions.dll
+F:\Intellipix\Intellipix\bin\System.Security.Principal.Windows.dll
+F:\Intellipix\Intellipix\bin\System.Text.Encoding.CodePages.dll
+F:\Intellipix\Intellipix\bin\System.Text.Encodings.Web.dll
+F:\Intellipix\Intellipix\bin\System.Threading.Tasks.Extensions.dll
+F:\Intellipix\Intellipix\bin\System.Web.Helpers.dll
+F:\Intellipix\Intellipix\bin\System.Web.Mvc.dll
+F:\Intellipix\Intellipix\bin\System.Web.Optimization.dll
+F:\Intellipix\Intellipix\bin\System.Web.Razor.dll
+F:\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.dll
+F:\Intellipix\Intellipix\bin\System.Web.WebPages.dll
+F:\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.dll
+F:\Intellipix\Intellipix\bin\WebGrease.dll
+F:\Intellipix\Intellipix\bin\ImageResizer.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Antiforgery.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Core.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cors.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Extensions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.JsonPatch.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Localization.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Core.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Language.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AspNetCore.WebUtilities.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.xml
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.pdb
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.xml
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.pdb
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.xml
+F:\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.Razor.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Memory.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Composite.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.ObjectPool.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Options.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.Primitives.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Extensions.WebEncoders.xml
+F:\Intellipix\Intellipix\bin\Microsoft.Net.Http.Headers.xml
+F:\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.xml
+F:\Intellipix\Intellipix\bin\Newtonsoft.Json.xml
+F:\Intellipix\Intellipix\bin\Newtonsoft.Json.Bson.xml
+F:\Intellipix\Intellipix\bin\System.Buffers.xml
+F:\Intellipix\Intellipix\bin\System.Collections.Immutable.xml
+F:\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Intellipix\Intellipix\bin\System.Memory.xml
+F:\Intellipix\Intellipix\bin\System.Numerics.Vectors.xml
+F:\Intellipix\Intellipix\bin\System.Reflection.Metadata.xml
+F:\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Intellipix\Intellipix\bin\System.Text.Encodings.Web.xml
+F:\Intellipix\Intellipix\bin\System.Threading.Tasks.Extensions.xml
+F:\Intellipix\Intellipix\bin\System.Web.Helpers.xml
+F:\Intellipix\Intellipix\bin\System.Web.Mvc.xml
+F:\Intellipix\Intellipix\bin\System.Web.Optimization.xml
+F:\Intellipix\Intellipix\bin\System.Web.Razor.xml
+F:\Intellipix\Intellipix\bin\System.Web.WebPages.xml
+F:\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.xml
+F:\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.xml
+F:\Intellipix\Intellipix\bin\Antlr3.Runtime.pdb
+F:\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.xml
+F:\Intellipix\Intellipix\bin\Microsoft.AI.Web.xml
+F:\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Intellipix\Intellipix\obj\Debug\Intellipix.csprojAssemblyReference.cache
+F:\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CoreCompileInputs.cache
+F:\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CopyComplete
+F:\Intellipix\Intellipix\obj\Debug\Intellipix.dll
+F:\Intellipix\Intellipix\obj\Debug\Intellipix.pdb
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\ApplicationInsights.config
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Intellipix.dll.config
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Intellipix.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Intellipix.pdb
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\csc.exe
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\csc.exe.config
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\csc.rsp
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\csi.exe
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\csi.exe.config
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\csi.rsp
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.AppContext.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Console.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.IO.Compression.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Security.Claims.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.ValueTuple.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\vbc.exe
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\vbc.exe.config
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\vbc.rsp
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Win32.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\netstandard.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.AppContext.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Collections.Concurrent.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Collections.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Collections.NonGeneric.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Collections.Specialized.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.ComponentModel.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.ComponentModel.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Console.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Data.Common.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.Contracts.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.Debug.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.Process.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.StackTrace.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.Tools.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.TraceSource.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.Tracing.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Drawing.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Dynamic.Runtime.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Globalization.Calendars.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Globalization.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Globalization.Extensions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.Compression.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.Compression.ZipFile.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.FileSystem.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.IsolatedStorage.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.Pipes.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Linq.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Linq.Expressions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Linq.Parallel.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Linq.Queryable.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.Http.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.NameResolution.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.NetworkInformation.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.Ping.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.Requests.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.Security.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.Sockets.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.WebHeaderCollection.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.WebSockets.Client.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Net.WebSockets.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.ObjectModel.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Reflection.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Reflection.Extensions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Reflection.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Resources.Reader.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Resources.ResourceManager.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Resources.Writer.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.Extensions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.Handles.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.InteropServices.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.Numerics.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.Serialization.Json.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Claims.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Cryptography.Csp.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Principal.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.SecureString.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Text.Encoding.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Text.Encoding.Extensions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Text.RegularExpressions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.Overlapped.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.Tasks.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.Thread.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.ThreadPool.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.Timer.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.ValueTuple.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Xml.ReaderWriter.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Xml.XDocument.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Xml.XmlDocument.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Xml.XmlSerializer.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Xml.XPath.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Xml.XPath.XDocument.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Antlr3.Runtime.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\ImageResizer.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.Web.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Localization.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Options.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Win32.Registry.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Newtonsoft.Json.Bson.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Newtonsoft.Json.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Buffers.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Collections.Immutable.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.ComponentModel.Annotations.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Memory.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Numerics.Vectors.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Reflection.Metadata.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.AccessControl.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Cryptography.Xml.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Permissions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Security.Principal.Windows.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Text.Encoding.CodePages.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Text.Encodings.Web.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Helpers.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Mvc.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Optimization.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Razor.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.WebPages.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\WebGrease.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\ImageResizer.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Localization.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Options.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Newtonsoft.Json.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Newtonsoft.Json.Bson.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Buffers.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Collections.Immutable.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Memory.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Numerics.Vectors.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Reflection.Metadata.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Text.Encodings.Web.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Helpers.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Mvc.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Optimization.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.Razor.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.WebPages.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\System.Web.WebPages.Razor.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Antlr3.Runtime.pdb
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.AI.Web.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CoreCompileInputs.cache
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\obj\Debug\Intellipix.csproj.CopyComplete
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\obj\Debug\Intellipix.dll
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\obj\Debug\Intellipix.pdb
+C:\Users\mbnzi\OneDrive\Documents\SCHOOL 2018\SECOND SEMESTER\APPDEV 3B\ASSEGMENT2\INTEGRATION\Intellipix\Intellipix\obj\Debug\Intellipix.csprojAssemblyReference.cache
