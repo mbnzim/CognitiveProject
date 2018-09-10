@@ -124,9 +124,10 @@ namespace Intellipix.Controllers
         #endregion upload image
 
         //======================Search Image==================
+
+        #region Search for Image
         //Cach response  https://jakeydocs.readthedocs.io/en/latest/performance/caching/response.html
         [ResponseCache(Duration = 60)]
-        #region Search for Image
         [System.Web.Mvc.HttpPost]
         public System.Web.Mvc.ActionResult Search(string term)
         {
@@ -144,7 +145,9 @@ namespace Intellipix.Controllers
         }
         #endregion search for Image 
 
+
         //======================Getting the Image Properties==================
+        #region Getting the Image Properties
         //Cach response  https://jakeydocs.readthedocs.io/en/latest/performance/caching/response.html
         [ResponseCache(Duration = 60)]
         public System.Web.Mvc.ActionResult getPropeties(string name)
@@ -170,8 +173,10 @@ namespace Intellipix.Controllers
 
             return View();
         }
+        #endregion Getting the Image Properties
 
         //=======================Delete Blob================
+        #region Delete Blob
         // deleting a blob https://www.c-sharpcorner.com/article/upload-download-and-delete-blob-files-in-azure-storage/
         [ResponseCache(Duration = 10, Location = ResponseCacheLocation.Any, NoStore = true)]
         public System.Web.Mvc.ActionResult RemoveBlob(string name)
@@ -189,5 +194,6 @@ namespace Intellipix.Controllers
 
             return RedirectToAction("Index");
         }
+        #endregion
     }
 }
